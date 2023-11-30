@@ -10,7 +10,7 @@ El usuario es responsable de adquirir los Documentos PDF.
 ## Requisitos:
 Instalacion de Acrobate Reader
 No requiere permiso de administrador para su instalacion.
-### Usuarios principal root, contraseña root. 
+## Usuarios principal root, contraseña root. 
 
 
 
