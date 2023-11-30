@@ -5,12 +5,12 @@ Licencia GPL V3.
 recomendaciones y sugerencias al Ê-mail: enfermerian3@protonmail.com
 
 El programa indica una relacion formal por medio de la gerstió  de documentos PDF. 
-El usuario es responsable de adquirir los Docuemntos PDF. 
+El usuario es responsable de adquirir los Documentos PDF. 
 
 ## Requisitos:
 Instalacion de Acrobate Reader
 No requiere permiso de administrador para su instalacion.
-Usuarios principal root, contraseña root. 
+### Usuarios principal root, contraseña root. 
 
 
 
