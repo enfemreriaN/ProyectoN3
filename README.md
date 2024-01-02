@@ -36,7 +36,7 @@ No requiere permiso de administrador para su instalacion.
 
 10. EN CASO DE FALLOS, REINSTALE EL PROGRAMA. 
 
-11. SI REQUIERE EL CODIGO FUENTE DEL PROGRAMA SOLICITE UNA COPIA AL CORREO: enfermerian3@protonmail.com
+
 
 
 
